@@ -11,5 +11,7 @@
 ### Day 8-9 Mission (2022.04.30-05.01)
 ### Day 10 TIL(2022.05.02)
 ### Day 11 TIL(2022.05.03)
+### Day 12 Quiz(2022.05.04)
+### Day 13 TIL(2022.05.05)
 
 ![KakaoTalk_20220422_114122643](https://user-images.githubusercontent.com/79802132/164700230-9d35beac-05e8-4131-ae31-22206a0dd522.png)
