@@ -3,10 +3,9 @@
 ## TIL(Today I Learned) 
 
 
-### DAY 1 TIL(2022.04.22) 
 [DAY 1 TIL(2022.04.22)](./Assignment02.md)
-### DAY 2 TIL(2022.04.23)
-### DAY 3 TIL(2022.04.25)
+[DAY 2 TIL(2022.04.23)](./Assignment03.md)
+[DAY 3 TIL(2022.04.25)](./Assignment04..md)
 ### DAY 4-5 TIL(2022.04.26-27)
 ### DAY 6-7 TIL(2022.04.28-29)
 ### Day 8-9 Mission (2022.04.30-05.01)
