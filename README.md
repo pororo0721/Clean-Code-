@@ -17,7 +17,7 @@
 
 [Day 10 Mission(2022.04.30-05.01)](./Assignment07.md)
 
-[Day 11 TIL(2022.05.03)](./Assignment08.md)
+[Day 11 TIL(2022.05.02)](./Assignment08.md)
 
 [Day 12 Quiz(2022.05.04)](./Assignment09.md)
 
