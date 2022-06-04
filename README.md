@@ -4,7 +4,7 @@
 
 
 ### DAY 1 TIL(2022.04.22) 
-[DAY 1 TIL(2022.04.22)](./Assignment02)
+[DAY 1 TIL(2022.04.22)](./Assignment02.md)
 ### DAY 2 TIL(2022.04.23)
 ### DAY 3 TIL(2022.04.25)
 ### DAY 4-5 TIL(2022.04.26-27)
