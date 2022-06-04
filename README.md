@@ -3,9 +3,9 @@
 ## TIL(Today I Learned) 
 
 
-[DAY 1 TIL(2022.04.22)](./README.md)
+[DAY 1](./README.md)
 
-[DAY 2 TIL(2022.04.23)](./Assignment02.md)
+[DAY 2 TIL(2022.04.22)](./Assignment02.md)
 
 [DAY 3 TIL(2022.04.25)](./Assignment03.md)
 
