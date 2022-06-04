@@ -19,7 +19,7 @@
 
 [Day 11 TIL(2022.05.02)](./Assignment08.md)
 
-[Day 12 Quiz(2022.05.04)](./Assignment09.md)
+[Day 12 TIL(2022.05.03)](./Assignment09.md)
 
 [Day 13 TIL(2022.05.05-05.06)](./Assignment11.md)
 
