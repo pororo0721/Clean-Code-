@@ -34,5 +34,6 @@
 
 ![KakaoTalk_20220422_114122643](https://user-images.githubusercontent.com/79802132/164700230-9d35beac-05e8-4131-ae31-22206a0dd522.png)
 ![우수졸업생](https://user-images.githubusercontent.com/79802132/172003260-e208d2cd-2b8f-41eb-8111-92a8adfe5022.png)
-[d544aaa8-dd2e-414a-9b25-f09ba89baefd.pdf](https://github.com/pororo0721/Clean-Code-/files/8837826/d544aaa8-dd2e-414a-9b25-f09ba89baefd.pdf)
+![클린코드](https://user-images.githubusercontent.com/79802132/172003428-dbd54dc7-be30-4cab-ac39-409da2e5aca3.png)
+
 
