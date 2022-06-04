@@ -9,7 +9,7 @@
 
 [DAY 3 TIL(2022.04.23)](./Assignment03.md)
 
-[DAY 4-5 TIL(2022.04.26-27)](./Assignment04..md)
+[DAY 4-5 TIL(2022.04.25)](./Assignment04..md)
 
 [DAY 6-7 TIL(2022.04.28-29)](./Assignment05.md)
 
