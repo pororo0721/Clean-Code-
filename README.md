@@ -33,3 +33,5 @@
 
 
 ![KakaoTalk_20220422_114122643](https://user-images.githubusercontent.com/79802132/164700230-9d35beac-05e8-4131-ae31-22206a0dd522.png)
+![우수졸업생](https://user-images.githubusercontent.com/79802132/172003260-e208d2cd-2b8f-41eb-8111-92a8adfe5022.png)
+
